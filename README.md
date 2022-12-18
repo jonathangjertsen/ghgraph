@@ -3,7 +3,7 @@ Downloads stats from Github API and make a graph of open/closed issues + n issue
 Usage: create a file named `my_secret.py` in this folder with the following contents
 
 ```Python
-PAT = "ghp_my_pat"
+PAT = "ghp_my_pat" # created here https://github.com/settings/tokens
 REPO = "my_org_or_user/my_repo_name"
 ```
 
